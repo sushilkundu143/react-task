@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "title": "Barbeque Notation",
+        "subtitle": "Pan India",
+        "img": "1",
+        "rating": 4.5,
+        "offers": {
+            "title": "Food Voucher",
+            "des": "Buy a Gift Voucher wourth Rs. 1800 and get two complimentory Mocktail/Beer Pint."
+        }
+    },
+    {
+        "id": 2,
+        "title": "Faassons",
+        "subtitle": "Pan India",
+        "img": "1",
+        "rating": 4.5,
+        "offers": {
+            "des": "50% off upto Rs. 75 on min order of Rs. 99"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Barbeque Notation",
+        "subtitle": "Pan India",
+        "img": "1",
+        "rating": 4.5,
+        "offers": {
+            "title": "Food Voucher",
+            "des": "Buy a Gift Voucher wourth Rs. 1800 and get two complimentory Mocktail/Beer Pint."
+        }
+    },
+    {
+        "id": 4,
+        "title": "Faassons",
+        "subtitle": "Pan India",
+        "img": "1",
+        "rating": 4.3,
+        "offers": {
+            "des": "50% off upto Rs. 75 on min order of Rs. 99"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Faassons",
+        "subtitle": "Pan India",
+        "img": "1",
+        "rating": 4.7,
+        "offers": {
+            "des": "50% off upto Rs. 75 on min order of Rs. 99"
+        }
+    },
+    {
+        "id": 6,
+        "title": "Faassons",
+        "subtitle": "Pan India",
+        "img": "1",
+        "rating": 4.4,
+        "offers": {
+            "des": "50% off upto Rs. 75 on min order of Rs. 99"
+        }
+    },
+    {
+        "id": 7,
+        "title": "Barbeque Notation",
+        "subtitle": "Pan India",
+        "img": "1",
+        "rating": 4.5,
+        "offers": {
+            "title": "Food Voucher",
+            "des": "Buy a Gift Voucher wourth Rs. 1800 and get two complimentory Mocktail/Beer Pint."
+        }
+    },
+    {
+        "id": 8,
+        "title": "Barbeque Notation",
+        "subtitle": "Pan India",
+        "img": "1",
+        "rating": 4.3,
+        "offers": {
+            "title": "Food Voucher",
+            "des": "Buy a Gift Voucher wourth Rs. 1800 and get two complimentory Mocktail/Beer Pint."
+        }
+    }
+]
